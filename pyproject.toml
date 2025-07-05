@@ -18,6 +18,9 @@ dependencies = [
     "tqdm"
 ]
 
+[project.urls]
+Homepage = "https://github.com/UmarZein/gpgin-cli"
+
 [project.scripts]
 gpgin = "gpgin_cli.cli:main"
 
