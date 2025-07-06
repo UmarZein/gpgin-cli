@@ -1,3 +1,5 @@
+General Purpose Graph Isomorphism Network is a GNN architecture that is able to process graphs with continuous node and edge features.
+
 ## Installation
 
 We recommend installing PyTorch and PyTorch Geometric before gpgin-cli to avoid compatibility issues related to CUDA versions and hardware acceleration.
