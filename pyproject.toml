@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gpgin-cli"
-version = "0.1.0"
+version = "0.1.1"
 description = "General Purpose Graph Isomorphism Network is a GNN architecture that is able to process graphs with continuous node and edge features."
 authors = [{name = "Umar Zein", email = "umarzein1314@email.com"}]
 license         = "MIT"
